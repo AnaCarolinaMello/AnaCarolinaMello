@@ -1,11 +1,11 @@
 
-## Hi, I am Erica Grundy! 
+## Hi, I am Ana Carolina Mello! 
 </br>
 
  <div>
-  <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <a href="https://github.com/AnaCarolinaMello">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaMello&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaMello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
