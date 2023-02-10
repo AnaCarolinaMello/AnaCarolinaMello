@@ -35,6 +35,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/AnaCarolinaMello/AnaCarolinaMello/.github/workflows/snake_game.py)
+  ![Snake animation](https://github.com/AnaCarolinaMello/github-contribution-grid-snake.svg)
  
 </div>
