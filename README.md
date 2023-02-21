@@ -20,7 +20,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Mello-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" align="center" alt="Mello-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
   <img height="40" align="center" alt="Mello-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
   <img align="right" height="180em" alt="Mello-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
