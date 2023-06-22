@@ -5,6 +5,7 @@
  <div>
   <a href="https://github.com/AnaCarolinaMello">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaMello&layout=compact&langs_count=16&theme=dracula"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaMello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
